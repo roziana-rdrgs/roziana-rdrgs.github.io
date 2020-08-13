@@ -19,10 +19,10 @@
 - 💬 Ping me about: **Harry Potter**, **diversity & inclusion**, **cats**, **Back To The Future**
 - 💜 Interests: **sci-fi**, **plants**, **art**, **music**
 
-#### 📋 Take a look at my portfolio made with GitHub Pages [![Portfolio Badge](https://img.shields.io/badge/-GitHub-blueviolet?style=flat-square&logo=GitHub&logoColor=black&link=https://www.linkedin.com/in/roziana-rdrgs/)](https://www.linkedin.com/in/roziana-rdrgs/)
+#### 📋 Take a look at my portfolio made with GitHub Pages [![Portfolio Badge](https://img.shields.io/badge/-GitHub-4b195c?style=flat-square&logo=GitHub&logoColor=white&link=https://roziana-rdrgs.github.io/aboutme/)](https://roziana-rdrgs.github.io/aboutme/)
 
 #### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://roziana-rdrgs.github.io/aboutme/)](https://roziana-rdrgs.github.io/aboutme/)
+- 💼 Connecting and sharing professional updates on  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roziana-rdrgs/)](https://www.linkedin.com/in/roziana-rdrgs/)
 - 🎵 Listening to all my favorite jams on  [![Spotify Badge](https://img.shields.io/badge/-Spotify-black?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/roziana_rdgs?si=775zXj3cRG-LtF0ca6QoGg)](https://open.spotify.com/user/roziana_rdgs?si=775zXj3cRG-LtF0ca6QoGg)
 - 🖌️ Sharing some of my drawings on  [![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rdrgs.ink/)](https://www.instagram.com/rdrgs.ink/)
 - 📬 Receiving emails on  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pereiraroziana55@gmail.com)](mailto:pereiraroziana55@gmail.com)
