@@ -1,34 +1,15 @@
-![capa_github](https://stories.freepik.com/illustration/in-sync/pana#default&hide=&hide=simple)
-
+<!-- ![3255469](https://user-images.githubusercontent.com/19981551/90162385-e961e400-dd6a-11ea-9464-c39df2a503a4.jpg) -->
 
 <!-- ### Hi there 👋 -->
-## Hi there! <img src="https://stories.freepik.com/illustration/in-sync/pana#default&hide=&hide=simple"></h2>
+## Hi there! 👋
 
-- 🏢 I'm currently working full-time at **Uniodonto Campinas**
-- ⚙️ I use daily: `.js`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.sql`
-- 🌱 Learning more about and studying: **React, UI Design**
-- 💬 Ping me about: **wed design**, **diversity & inclusion**, **food**, **Beyonce**
-- 💜 Interests: huge Beyonce fan, 🐶 dogs and cats, the sims 
-<!-- - 😄 Passionate about accessibility and committed to a web that works for everyone -->
+- 🏢 I'm currently working full-time at  **AppelSoft** as **Front-End**
+- ⚙️ I use daily:  `.js`, `.tsx`, `.ts`, `.html`, `.css`, `.json`
+- 🌱 Learning more about and studying:  **React, ReactJS, UI Design, UX Design**
+- 💬 Ping me about: **Harry Potter**, **diversity & inclusion**, **cats**, **Back To The Future**
+- 💜 Interests: **sci-fi**, **plants**, **art**, **music**
 
 #### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/vyctoriak/">LinkedIn</a>
-- 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/karinavyc">Spotify</a>
-- 🐦 Tweeting about The Sims, life, Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/vyckarina/">Twitter</a>
-<!-- - 🌐 Updating my personal website with examples of my work on <a href="https://millycodes.com">MillyCodes.com</a> -->
-
-
-<!--
-**vyctoriak/vyctoriak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/roziana-rdrgs/">LinkedIn</a>
+- 🎵 Listening to all my favorite jams on <a href="https://open.spotify.com/user/roziana_rdgs?si=775zXj3cRG-LtF0ca6QoGg">Spotify</a>
+- 🖌️ Sharing some of my drawings on <a href="https://www.instagram.com/rdrgs.ink/">Instagram</a>
