@@ -1,5 +1,14 @@
 <!-- ![3255469](https://user-images.githubusercontent.com/19981551/90162385-e961e400-dd6a-11ea-9464-c39df2a503a4.jpg) -->
 
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roziana-rdrgs&hide=html&layout=compact&theme=default" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=roziana-rdrgs&theme=default" /></td>
+    </tr>   
+  </table>
+</center>
+
 <!-- ### Hi there 👋 -->
 ## Hi there! 👋
 
