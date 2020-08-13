@@ -2,7 +2,7 @@
 
 
 <!-- ### Hi there 👋 -->
-## Hi there! <img src="<a href="https://stories.freepik.com/">Illustration by Freepik Stories</a>" width="30px"></h2>
+## Hi there! <img src="https://stories.freepik.com/illustration/in-sync/pana#default&hide=&hide=simple"></h2>
 
 - 🏢 I'm currently working full-time at **Uniodonto Campinas**
 - ⚙️ I use daily: `.js`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.sql`
