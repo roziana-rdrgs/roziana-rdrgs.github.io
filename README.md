@@ -10,6 +10,6 @@
 - 💜 Interests: **sci-fi**, **plants**, **art**, **music**
 
 #### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/roziana-rdrgs/">LinkedIn</a>
-- 🎵 Listening to all my favorite jams on <a href="https://open.spotify.com/user/roziana_rdgs?si=775zXj3cRG-LtF0ca6QoGg">Spotify</a>
-- 🖌️ Sharing some of my drawings on <a href="https://www.instagram.com/rdrgs.ink/">Instagram</a>
+- 💼 Connecting and sharing professional updates on <a target="_blank" href="https://www.linkedin.com/in/roziana-rdrgs/">LinkedIn</a>
+- 🎵 Listening to all my favorite jams on <a target="_blank" href="https://open.spotify.com/user/roziana_rdgs?si=775zXj3cRG-LtF0ca6QoGg">Spotify</a>
+- 🖌️ Sharing some of my drawings on <a target="_blank" href="https://www.instagram.com/rdrgs.ink/">Instagram</a>
