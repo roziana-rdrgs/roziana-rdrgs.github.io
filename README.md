@@ -1,12 +1,5 @@
-![capa_github_vyctoria](https://raw.githubusercontent.com/vyctoriak/vyctoriak/master/capa-vyc.png)
+![capa_github](https://stories.freepik.com/illustration/in-sync/pana#default&hide=&hide=simple)
 
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://stories.freepik.com/illustration/static-assets/pana" /></td
-    </tr>   
-  </table>
-</center>
 
 <!-- ### Hi there 👋 -->
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
