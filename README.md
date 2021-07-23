@@ -13,8 +13,8 @@
 ## Hi there! 👋
 
 - 🏢 I'm currently working full-time at  **AppelSoft** as **Front-End**
-- ⚙️ I use daily:  `.js`, `.tsx`, `.ts`, `.html`, `.css`, `.json`
-- 🌱 Learning more about and studying:  **React, ReactJS, UI Design, UX Design**
+- ⚙️ I use daily:  `.js`, `.ts`, `.html`, `.css`, `.json`
+- 🌱 Learning more about and studying:  **Angular, Ionic , UI Design, UX Design**
 - 🛠️ I worked with technologies like: **Delphi**, **C#** and **.NET** for almost 3 years.  I also worked as a **help desk** 🖥️ for almost 2 years. 🤪
 - 💬 Ping me about: **Harry Potter**, **diversity & inclusion**, **cats**, **Back To The Future**
 - 💜 Interests: **sci-fi**, **plants**, **art**, **music**
