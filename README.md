@@ -29,3 +29,9 @@
 
  
 - Thanks for visiting. 
+
+Some simple projects with GitHub Pages:
+- To-do List (https://roziana-rdrgs.github.io/to-do-list/)]
+- Random Quote Machine (https://roziana-rdrgs.github.io/random-quote-machine/)
+- Buggy Snake (https://roziana-rdrgs.github.io/buggy-snake/)
+- About Me (very old) (https://roziana-rdrgs.github.io/aboutme/)
